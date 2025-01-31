@@ -30,8 +30,3 @@ Example with multiple landmarks:
 - `width` / `height`: Map dimensions (default: 100%, 360px).
 - `layer`: Map layer (1 = Normal, 2 = Satellite, 3 = Satellite with labels).
 
-## License
-Apache-2.0
-
-For more details, visit [official documentation](https://guole.fun/posts/41887/).
-
