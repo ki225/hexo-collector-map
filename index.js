@@ -1,12 +1,12 @@
-// A map plug-in under hexo, which supports rendering of beautiful interactive maps on article pages.
-// * author: guole
-// * https://guole.fun/
-// * license: Apache-2.0
-// * https://guole.fun/posts/41887//blob/main/LICENSE
-// {% map altLan, altLat, alt, zoom, mapWidth, mapHeight, tuceng %}
-// {% map 经度, 纬度, 文本, 缩放级别, 宽, 高, 图层 %}
-// 例子（多個地標）：{% map 114.533983,22.569441,西涌沙滩,114.123,22.456,另一個地點,14,100%,360px,1 %}
-// 使用说明：https://guole.fun/posts/41887/
+// A map plugin for Hexo, which supports rendering beautiful interactive maps on article pages.
+// * Original Author: Guole
+// * * Modified by: Kiki
+// * Website: https://guole.fun/
+// * License: Apache-2.0
+// * License Link: https://guole.fun/posts/41887//blob/main/LICENSE
+// {% map longitude, latitude, text, zoom level, width, height, layer %}
+// Example (multiple landmarks): {% map 114.533983, 22.569441, Xichong Beach, 114.123, 22.456, Another Location, 14, 100%, 360px, 1 %}
+
 
 'use strict';
 
