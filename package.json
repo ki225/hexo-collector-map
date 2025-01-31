@@ -1,0 +1,23 @@
+{
+  "name": "hexo-collector-map",
+  "version": "1.0.0",
+  "description": "A custom hexo plugin for keeping the place I visited.",
+  "keywords": [
+    "hexo"
+  ],
+  "homepage": "https://github.com/ki225/hexo-collector-map#readme",
+  "bugs": {
+    "url": "https://github.com/ki225/hexo-collector-map/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ki225/hexo-collector-map.git"
+  },
+  "license": "MIT",
+  "author": "Kiki",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
